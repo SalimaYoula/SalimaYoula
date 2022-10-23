@@ -10,7 +10,7 @@ Hello, my name is Salematou Youla, data analyst, flexible between France and Eng
   Being a data analyst is a passion and the result of a professional and personal project.
 
 - :zap: In my free time, I work on my charity project, Diffey. Communicating with people to help them solve problem
-
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-salima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salematou-youla-b7784790/)
 # 
 
 ### Data processing tools
