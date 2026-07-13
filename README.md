@@ -1,55 +1,61 @@
-<div>
-<img align='' with='47%' src='https://github-readme-stats.vercel.app/api?username=SalimaYoula&show_icons=true&theme=radical'/>
-<img align='right' with='70%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=SalimaYoula&layout=compact'/></br>
-</div>
+# Hi, I'm Salematou 👋
 
-### :woman_technologist: About Me :
-Hello, my name is Salematou Youla, data analyst, flexible between France and England
+**Data Engineer** based in **London**, with a software development background and a passion for building reliable, end-to-end data platforms. I enjoy owning the entire data pipeline—from ingesting raw data and building transformation workflows to modelling datasets and delivering dashboards that support decision-making.
 
-  I was a Software Engineer building frontend and backend web applications.
-  Being a data analyst is a passion and the result of a professional and personal project.
+After seven years developing business applications with JavaScript, PHP and SQL, I transitioned into Data Engineering to focus on designing scalable data solutions using Python, PySpark, Apache Airflow and dbt.
 
-- :zap: In my free time, I work on my charity project, Diffey. Communicating with people to help them solve problem
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-salima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salematou-youla-b7784790/)
+To apply these skills, I built two production-grade data platforms: one analysing financial market data and another exploring maternal and child health across 12 West African countries. Together, they demonstrate modern data engineering practices, including ETL pipelines, workflow orchestration, data modelling and interactive analytics.
 
-# 
+I'm currently seeking Data Engineer opportunities in London, Paris or remote, where I can contribute to building reliable, scalable data platforms while continuing to grow as part of a collaborative engineering team.
 
-### Data processing tools
-<div align=''>
- <img src="https://github.com/SalimaYoula/icon/blob/main/img1.svg" title="" alt="" width="60" height="40"/>&nbsp;
- <img src="https://github.com/SalimaYoula/icon/blob/main/sklearn.png" title="sklearn" alt="sklearn" width="60" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupiter" alt=" " width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio" alt="rstudio" width="40" height="40"/>&nbsp;
-</div>
+## 🚀 Featured Projects
 
-### Database tools
-<div align=''>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="" width="40" height="40"/>&nbsp;
-</div>
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [**Finance Data Platform**](https://github.com/SalimaYoula/finance-data-platform) | Batch ETL pipeline for daily stock-market data — 8 financial KPIs, orchestrated with Airflow, live Streamlit dashboard | PySpark · Airflow · DuckDB · Streamlit |
+| [**Diffey Health Data Platform**](https://github.com/SalimaYoula/diffey-health-platform) | Maternal & child health analytics across 12 West African countries, modelled in dbt — supporting the Diffey community project | Python · dbt · DuckDB · Streamlit |
+| [**Counterfeit Banknote Detection**](https://github.com/SalimaYoula/Detect-counterfeit-bank-bills) | ML classification of counterfeit banknotes — 99.1% accuracy | Python · scikit-learn · Pandas |
 
-### Visualisation/dashbord
-<div align=''>
-  <img src="https://github.com/SalimaYoula/icon/blob/main/plotly2.png" title="plotly2" alt="plotly2" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SalimaYoula/icon/blob/main/Matplotlib.png" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SalimaYoula/icon/blob/main/seaborn.svg" title="seaborn" alt="seaborn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SalimaYoula/icon/blob/main/tableau.svg" title="tableau" alt="tableau" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SalimaYoula/icon/blob/main/powerbi.png" title="powerbi" alt="powerbi" width="40" height="40"/>&nbsp;
-</div>
+## 🛠️ Tech Stack
 
-### Other tools
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="git" alt="github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" title="phpstorm" alt="phpstorm" width="40" height="40"/>&nbsp;
-</div>
+**Data Engineering**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-advanced-4479A1?style=flat)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat)
+
+**Databases**
+
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Visualisation**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+**Tools & Background**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-in_progress-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+## 🌍 Beyond the code
+
+In my free time I work on **Diffey**, a community project supporting women
+through pregnancy in West Africa — which is also where my health data
+platform comes from. Data engineering matters most when the numbers mean
+something.
+
+## 📫 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-salematou--youla-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salematou-youla)
+[![Email](https://img.shields.io/badge/Email-salimayoula.sy%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:salimayoula.sy@gmail.com)
