@@ -12,8 +12,8 @@ I'm currently seeking Data Engineer opportunities in London, Paris or remote, wh
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| [**Finance Data Platform**](https://github.com/SalimaYoula/finance-data-platform) | Batch ETL pipeline for daily stock-market data — 8 financial KPIs, orchestrated with Airflow, live Streamlit dashboard | PySpark · Airflow · DuckDB · Streamlit |
-| [**Diffey Health Data Platform**](https://github.com/SalimaYoula/diffey-health-platform) | Maternal & child health analytics across 12 West African countries, modelled in dbt — supporting the Diffey community project | Python · dbt · DuckDB · Streamlit |
+| [**Finance Data Platform**](https://github.com/SalimaYoula/finance-data-platform) | Batch ETL pipeline for daily stock-market data. Eight financial KPIs, orchestrated with Airflow, live Streamlit dashboard | PySpark · Airflow · DuckDB · Streamlit |
+| [**Diffey Health Data Platform**](https://github.com/SalimaYoula/diffey-health-platform) | Maternal & child health analytics across 12 West African countries, modelled in dbt, supporting the Diffey community project | Python · dbt · DuckDB · Streamlit |
 | [**Counterfeit Banknote Detection**](https://github.com/SalimaYoula/Detect-counterfeit-bank-bills) | ML classification of counterfeit banknotes — 99.1% accuracy | Python · scikit-learn · Pandas |
 
 ## 🛠️ Tech Stack
